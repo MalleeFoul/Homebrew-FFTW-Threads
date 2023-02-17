@@ -1,4 +1,4 @@
-class Fftw < Formula
+class Fftwthreads < Formula
   desc "C routines to compute the Discrete Fourier Transform"
   homepage "https://fftw.org"
   url "https://fftw.org/fftw-3.3.10.tar.gz"
